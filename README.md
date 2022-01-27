@@ -1,1 +1,1 @@
-# arcade_facerecognition
+# Face Recognition Software for Retro Arcade Machine
